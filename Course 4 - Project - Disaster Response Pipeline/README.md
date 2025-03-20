@@ -1,7 +1,7 @@
 # Project - Disaster Response Pipeline 
 
 ## Summary
-In this project, a machine learning pipeline is created to help classify messages sent during disaster events . This project aims to categorize events into several categories to help forwarding disaster message from people to correct relief agency.
+In this project, a machine learning pipeline is created to help classify messages sent during disaster events. This project aims to classify events into several categories to help forward disaster messages from people to the appropriate relief agency.
 
 ## Components
 The different components of the project are 
