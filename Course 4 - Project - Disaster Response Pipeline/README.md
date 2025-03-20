@@ -7,14 +7,12 @@ In this project, a machine learning pipeline is created to help classify message
 The different components of the project are 
 - creating ETL pipeline that processes category and messages data and  merges, cleans, and stores it into SQlite database.
 - creating Machine learning pipeline that loads the data from SQLite database, splits it into training and testing data, trains and tunes the model, and then shows results on testing data
-- Web app extracts data from the database to provide data visualization and use the model model to classify new messages into 36 categories
+- Web app extracts data from the database to provide data visualization and use the model to classify new messages into 36 categories
 
 ## How to run:
-1. Run ETL pipeline for cleaning and storing in database 
-    python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/YourDatabaseName.db
+1. Run ETL pipeline for cleaning and storing in database - python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/YourDatabaseName.db
 
-2. Run ML pipeline that trains classifier 
-    python models/train_classifier.py data/YourDatabaseName.db models/models.pkl
+2. Run ML pipeline that trains classifier - python models/train_classifier.py data/YourDatabaseName.db models/models.pkl
 
 3. Run 'python run.py' command in the app's directory to run the web app. Click on Preview to open the web app
 
