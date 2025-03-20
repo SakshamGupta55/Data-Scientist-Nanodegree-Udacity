@@ -32,5 +32,5 @@ The different components of the project are
 
 ## Outputs
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/main/Course%204%20-%20Project%20-%20Disaster%20Response%20Pipeline/Screenshot%201.png))
+![alt text](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/5b8a61750782ded820e22d1a12e97f12aec429a3/Course%204%20-%20Project%20-%20Disaster%20Response%20Pipeline/Screenshot%201.png)
 
