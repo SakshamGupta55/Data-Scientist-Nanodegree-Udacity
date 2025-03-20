@@ -37,6 +37,7 @@ The different components of the project are
 
 ![alt text](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/a93c848e4d925a954925179b3872b53d00920bf8/Course%204%20-%20Project%20-%20Disaster%20Response%20Pipeline/Screenshot%205.png)
 
+![alt text](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/8e2b483785e6313ce9411ba9e38b15b5aed4a77b/Course%204%20-%20Project%20-%20Disaster%20Response%20Pipeline/IDE.png)
 
 ## License and Acknowledgement
-This app was completed as part of the Udacity Data Scientist Nanodegree.
+This is completed as part of the Udacity Data Scientist Nanodegree.
