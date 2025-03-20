@@ -6,8 +6,8 @@ In this project, a machine learning pipeline is created to help classify message
 ## Components
 The different components of the project are 
 - creating ETL pipeline that processes category and messages data and  merges, cleans, and stores it into SQlite database.
-- creating Machine learning pipeline that loads the data from SQLite database, splits it into traing and test , trains and tunes model and then shows results on testing data
-- Web app extracts data from the datbase to provide data visualization and use the model model to classify ne messages into 36 categories
+- creating Machine learning pipeline that loads the data from SQLite database, splits it into training and testing data, trains and tunes the model, and then shows results on testing data
+- Web app extracts data from the database to provide data visualization and use the model model to classify new messages into 36 categories
 
 ## How to run:
 1. Run ETL pipeline for cleaning and storing in database 
