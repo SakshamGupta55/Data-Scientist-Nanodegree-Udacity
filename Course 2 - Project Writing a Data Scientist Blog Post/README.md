@@ -30,6 +30,8 @@ In this project, analysis of Airbnb in Seattle and Boston is done to understand 
 
 Results and detail discussion is Published on [Medium](https://medium.com/@markhu1990b/seattle-vs-boston-a-deep-dive-into-airbnb-prices-ratings-and-reviews-1d1617393e65)
 
+Some graphs are as follows:
+
 ![alt text](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/03db335c354b2b1ba38c5c57f8e0e8f9160daed4/Course%202%20-%20Project%20Writing%20a%20Data%20Scientist%20Blog%20Post/Anlaysis1.png)
 
 ![alt text](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/03db335c354b2b1ba38c5c57f8e0e8f9160daed4/Course%202%20-%20Project%20Writing%20a%20Data%20Scientist%20Blog%20Post/Analysis2.png)
