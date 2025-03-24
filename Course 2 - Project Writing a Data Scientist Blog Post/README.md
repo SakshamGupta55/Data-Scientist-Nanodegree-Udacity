@@ -26,9 +26,9 @@ In this project, analysis of Airbnb in Seattle and Boston is done to understand 
 2. Airbnb - Boston : https://www.kaggle.com/datasets/airbnb/boston
 
 Both Boston and Seattle folder further contains three csv files:
-a. Calendar - contains property availability 
-b. Listings - Contains indepth atttribute of each listed property, such as price, location, facitilies, rating etc.
-c. Review - Contains indepth review submitted on each listed property.
+- Calendar - contains property availability
+- Listings - Contains indepth atttribute of each listed property, such as price, location, facitilies, rating etc.
+- Review - Contains indepth review submitted on each listed property.
 
 ## Results and Output
 
