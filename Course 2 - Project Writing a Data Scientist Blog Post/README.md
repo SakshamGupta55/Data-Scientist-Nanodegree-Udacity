@@ -22,12 +22,8 @@ In this project, analysis of Airbnb in Seattle and Boston is done to understand 
 - Analysis 4 - Review by type with Average property ratings for both cities
 
 ## Dataset used
-1. Airbnb - Seattle : ![alt text](https://www.kaggle.com/datasets/airbnb/seattle)
+1. Airbnb - Seattle : https://www.kaggle.com/datasets/airbnb/seattle
 2. Airbnb - Boston : https://www.kaggle.com/datasets/airbnb/boston
-3. in [https://www.kaggle.com/datasets/airbnb/boston](#Airbnb - Boston )
-
-## Feature
-   
 
 
 ## Outputs
