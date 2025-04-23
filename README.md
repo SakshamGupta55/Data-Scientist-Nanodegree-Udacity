@@ -8,4 +8,4 @@ Projects
 
 [Nanodegree Certificate](www.udacity.com/certificate/e/f08b7b7c-9f2e-11ee-b9d6-2ffa7cf417c5)
 
-![alt text](www.udacity.com/certificate/e/f08b7b7c-9f2e-11ee-b9d6-2ffa7cf417c5)
+![alt text](https://github.com/SakshamGupta55/Data-Scientist-Nanodegree-Udacity/blob/8e0c4f100aec719df3b5447304aac53b10bf8e19/SakshamGupta_Udacity_Data_Scientist_Nanodegree_Certificate.jpg)
